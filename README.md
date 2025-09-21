@@ -46,7 +46,7 @@ By using this repository, you agree to the following terms:
 
 ## Contact
 
-If you have any questions or suggestions, feel free to contact me at [your_email@example.com].
+If you have any questions or suggestions, feel free to contact me at [op2dev.offical.community@gmail.com].
 
 ---
 
