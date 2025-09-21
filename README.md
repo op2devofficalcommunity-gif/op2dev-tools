@@ -36,25 +36,11 @@ By using this repository, you agree to the following terms:
 4. **User Responsibility**  
    You assume full responsibility for all actions taken using these tools. The author does not control how you utilize this code.
 
----
 
-## Installation and Usage
-
-(Provide detailed instructions on how to install and use your tools here.)
-
----
 
 ## Contact
 
 If you have any questions or suggestions, feel free to contact me at [op2dev.offical.community@gmail.com].
-
----
-
-## License
-
-(Include your license here, e.g., MIT, GPL, etc.)
-
----
 
 Thank you for using my tools! Remember to operate ethically and responsibly.
 
