@@ -46,4 +46,4 @@ Thank you for using my tools! Remember to operate ethically and responsibly.
 
 ---
 
-If you'd like, I can prepare a Markdown file version or add specific examples of your tools.
+
